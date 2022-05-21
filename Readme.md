@@ -1,3 +1,4 @@
 Primeiro deliverable do grupo.
-Iremos, em uma lista de residências, determinar as 5 melhores compras e as 5 piores
+Determinar os 5 melhores e os 5 piores investimentos imobiliários.
+Nossas métricas essenciais:  latitude, longitude, zipcode, price/living e grade.
 #descrever como o projeto funciona
